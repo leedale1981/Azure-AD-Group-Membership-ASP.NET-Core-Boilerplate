@@ -1,0 +1,10 @@
+C:\src\Azure-AD-Group-Membership-ASP.NET-Core-Boilerplate\bin\Debug\netcoreapp2.0\Azure-AD-Group-Membership-ASP.NET-Core-Boilerplate.deps.json
+C:\src\Azure-AD-Group-Membership-ASP.NET-Core-Boilerplate\bin\Debug\netcoreapp2.0\Azure-AD-Group-Membership-ASP.NET-Core-Boilerplate.runtimeconfig.json
+C:\src\Azure-AD-Group-Membership-ASP.NET-Core-Boilerplate\bin\Debug\netcoreapp2.0\Azure-AD-Group-Membership-ASP.NET-Core-Boilerplate.runtimeconfig.dev.json
+C:\src\Azure-AD-Group-Membership-ASP.NET-Core-Boilerplate\bin\Debug\netcoreapp2.0\Azure-AD-Group-Membership-ASP.NET-Core-Boilerplate.dll
+C:\src\Azure-AD-Group-Membership-ASP.NET-Core-Boilerplate\bin\Debug\netcoreapp2.0\Azure-AD-Group-Membership-ASP.NET-Core-Boilerplate.pdb
+C:\src\Azure-AD-Group-Membership-ASP.NET-Core-Boilerplate\obj\Debug\netcoreapp2.0\Azure-AD-Group-Membership-ASP.NET-Core-Boilerplate.csproj.CoreCompileInputs.cache
+C:\src\Azure-AD-Group-Membership-ASP.NET-Core-Boilerplate\obj\Debug\netcoreapp2.0\Azure-AD-Group-Membership-ASP.NET-Core-Boilerplate.AssemblyInfoInputs.cache
+C:\src\Azure-AD-Group-Membership-ASP.NET-Core-Boilerplate\obj\Debug\netcoreapp2.0\Azure-AD-Group-Membership-ASP.NET-Core-Boilerplate.AssemblyInfo.cs
+C:\src\Azure-AD-Group-Membership-ASP.NET-Core-Boilerplate\obj\Debug\netcoreapp2.0\Azure-AD-Group-Membership-ASP.NET-Core-Boilerplate.dll
+C:\src\Azure-AD-Group-Membership-ASP.NET-Core-Boilerplate\obj\Debug\netcoreapp2.0\Azure-AD-Group-Membership-ASP.NET-Core-Boilerplate.pdb
